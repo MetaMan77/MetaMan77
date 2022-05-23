@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MetaMan77
 - 👀 I’m interested in Crypto, NFT creation, how one can make a change.
-- 🌱 I’m currently learning Crypto ecosystem and how to create a reader.md😁
+- 🌱 I’m currently learning Crypto ecosystem and how to create a readme.md😁
 - 💞️ I’m looking to collaborate on NFT creation.
 - 📫 How to reach me ... Thagen880@gmail.com
 
